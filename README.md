@@ -1,0 +1,2 @@
+Dependências:
+  pip install pillow
